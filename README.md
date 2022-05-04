@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here I will create hyperlinks for my own important projects
+
+
+
+### Cource Codes
+
+- [Optimization Method](https://github.com/huakyouin/DATA130026.01-records)
+- [Image Processing and Visualization](https://github.com/huakyouin/DATA130049.01-records)
+- [Neural Network and Deep Learning](https://github.com/huakyouin/DATA130011.01-records)
+- [Computer Vision](https://github.com/huakyouin/DATA130051.01-records)
+
+
+
+### Cloud Tools
+
+- [Clash Rule Addition](https://github.com/huakyouin/clash-rules)
+- [Markdown Picture Store](https://github.com/huakyouin/md-img)
+
